@@ -13,3 +13,7 @@ nav {
     display: flex;
     justify-content: space-evenly;
 }
+
+object {
+    color: black;
+}
