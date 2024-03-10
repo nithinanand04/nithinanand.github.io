@@ -1,8 +1,10 @@
+@import"fonts.css";
+
 body {
-    background-color: lightblue;
-  }
+    background-color: white;
+}
   
-  h1 {
-    color: navy;
-    margin-left: 20px;
-  }
+h1 {
+    color: black;
+    text-align: center;
+}
