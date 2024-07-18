@@ -2,7 +2,6 @@
 
 body {
     background-color: white;
-
 }
   
 h1 {
@@ -25,7 +24,12 @@ embed {
   width: 100vw;
 }
 
-.box-1{
+.info{
     background-color: lightblue;
-    margin:1%;
+    margin: 5px 10px;
+    border-radius: 15px;
+    align-items: flex-start;
+}
+.my-name{
+    text-align: 30px;
 }
